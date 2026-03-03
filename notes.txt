@@ -1,1 +1,1 @@
-This is Git version control experiment.
+This is Git version control experiment - Bug fix applied.

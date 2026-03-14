@@ -5,19 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.klu</groupId>
-<<<<<<< HEAD
-  <artifactId>Skill5</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-
-  <name>Skill5</name>
-  <description>A simple Skill5.</description>
-=======
   <artifactId>SkillLab2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>SkillLab2</name>
   <description>A simple SkillLab2.</description>
->>>>>>> 8305593bba1af88fabd502125acb799dde958e7b
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -34,16 +26,6 @@
       <version>3.8.1</version>
     </dependency>
 
-<<<<<<< HEAD
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>5.3.30</version>
-   </dependency>
-
-
-  </dependencies>
-=======
 <dependency>
 <groupId>org.hibernate</groupId>
 <artifactId>hibernate-core</artifactId>
@@ -64,7 +46,6 @@
 
   </dependencies>
   
->>>>>>> 8305593bba1af88fabd502125acb799dde958e7b
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
